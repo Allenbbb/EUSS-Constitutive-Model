@@ -1,0 +1,2 @@
+Radious_of_Ellipse	Radious_of_Ellipse_s	Lode_angle	Lode_angle + 3.14159265 * 2 / 3	Lode_angle + 3.14159265 * 4 / 3
+1	1	1.0472	3.14159	5.23599
